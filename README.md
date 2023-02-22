@@ -9,4 +9,11 @@ Estou praticando programação com o site do Frontend Mentor com Html e Css, est
 
 # ===================================== 
 
+## QR Code Component | Mobile | 2023/02/22
+O modelo mobile ficou ótimo, ele ficou responsivo normalmente isso é muito bom, ele ficou perfeito para todos os tipos de celulares até em table;
+
+![Model Mobile](./public/image/mobile.png)
+
+# ===================================== 
+
 ### Meu Insta🌐: https://www.instagram.com/rafael.timoteo.r.h/
